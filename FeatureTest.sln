@@ -15,6 +15,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RecurTemplateArgObjectCount
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MetaProgramming", "MetaProgramming\MetaProgramming.vcxproj", "{1F582282-F8CC-43CD-9494-062972D391F8}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bitset", "Bitset\Bitset.vcxproj", "{A5B366E9-29C8-4C8B-9B58-0A3C91E9EB10}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ValArray", "ValArray\ValArray.vcxproj", "{1B4BF3D4-38D2-421C-B96B-8472D2F0B516}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -45,6 +49,14 @@ Global
 		{1F582282-F8CC-43CD-9494-062972D391F8}.Debug|Win32.Build.0 = Debug|Win32
 		{1F582282-F8CC-43CD-9494-062972D391F8}.Release|Win32.ActiveCfg = Release|Win32
 		{1F582282-F8CC-43CD-9494-062972D391F8}.Release|Win32.Build.0 = Release|Win32
+		{A5B366E9-29C8-4C8B-9B58-0A3C91E9EB10}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A5B366E9-29C8-4C8B-9B58-0A3C91E9EB10}.Debug|Win32.Build.0 = Debug|Win32
+		{A5B366E9-29C8-4C8B-9B58-0A3C91E9EB10}.Release|Win32.ActiveCfg = Release|Win32
+		{A5B366E9-29C8-4C8B-9B58-0A3C91E9EB10}.Release|Win32.Build.0 = Release|Win32
+		{1B4BF3D4-38D2-421C-B96B-8472D2F0B516}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B4BF3D4-38D2-421C-B96B-8472D2F0B516}.Debug|Win32.Build.0 = Debug|Win32
+		{1B4BF3D4-38D2-421C-B96B-8472D2F0B516}.Release|Win32.ActiveCfg = Release|Win32
+		{1B4BF3D4-38D2-421C-B96B-8472D2F0B516}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
